@@ -1,1 +1,2 @@
-Just learning git basics
+Learning Git
+
